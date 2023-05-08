@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python project
-- 📫 How to reach me https://twitter.com/home
+- 📫 How to reach me https://twitter.com/SumitRo61637940
 
 <!---
 Sumitgitup/Sumitgitup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
