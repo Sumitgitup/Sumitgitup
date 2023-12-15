@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumitgitup
 - 👀 I’m interested in open source contribution
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python project
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me https://twitter.com/SumitRo61637940
 
 <!---
